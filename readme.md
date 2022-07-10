@@ -1,0 +1,1 @@
+This is a Love Calculator that lets you calculate love compatibility and your chances of a successful relationship.
